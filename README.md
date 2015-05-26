@@ -1,5 +1,5 @@
 # Pupil-detection-and-monitoring-its-motion-
-A module in Open CV which detects pupil and tracks its motion
+A module in MATLAB which detects pupil and tracks its motion
 
 It takes video as input and detect pupil in each frame using 'Viola Jones' algorith for object detection.
 
